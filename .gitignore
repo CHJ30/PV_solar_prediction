@@ -172,3 +172,6 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+data
+tensorflow-2.19.0-cp312-cp312-win_amd64.whl
+lstm_env
